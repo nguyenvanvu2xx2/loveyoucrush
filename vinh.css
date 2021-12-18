@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.vinh{
+    width: 100%;
+    height: 648px;
+}
+.file{
+    justify-content: center;
+    width: 100%;
+    height: 70%;
+}
+.text{
+    color: rgb(255, 255, 255);
+    right: 0;
+    bottom: 30%;
+    padding-right: 10px;
+    position: absolute;
+    margin-top: 20px;
+    font-family: 'Estonia', cursive;
+}
+.yes-no{
+    margin-top: -150px;
+    text-align: center;
+}
+.yes{
+    padding: 10px 20px;
+    color: white;
+    background: rgb(255, 0, 128);
+    text-decoration: none;
+    border: 1px solid rgb(255, 0, 128);
+}
+.no{
+    margin-left: 80px;
+    background: #000;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid rgb(0, 0, 0);
+}
+.linkfbvinh{
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 50px;
+}
